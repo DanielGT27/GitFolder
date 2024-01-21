@@ -6,3 +6,5 @@ bruuh
 
 
 git log --oneline : Da el historial de cambios de los archivos
+git merge (nombre de la rama que queremos fusionar): Dentro de la rama principal , se utiliza este comando para 
+fusionar los cambios de otras ramas 
