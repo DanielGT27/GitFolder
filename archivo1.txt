@@ -3,3 +3,6 @@ holas
 La loca
 sisas
 bruuh
+
+
+git log --oneline : Da el historial de cambios de los archivos
